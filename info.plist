@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>net.deekayen.dnscontrol.alfred2</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>1819C915-662D-45E8-B6AE-405C1C658E5C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D61A6993-6D0E-4785-9B18-DD5F3C82055A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2476F59E-06DB-410A-9C66-6ACA9882F87D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D61A6993-6D0E-4785-9B18-DD5F3C82055A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2E621E31-7AD5-4A6E-A90B-4D16EFB992F0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>19A280B6-5EEB-4DA3-A3B1-0F9942F0D382</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2FAEECC7-C16C-44CD-9985-5D60BE22CD7B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D61A6993-6D0E-4785-9B18-DD5F3C82055A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>632E90B2-F030-4091-8AEC-C428F25D2484</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E0702E7F-5286-45AE-A174-F467BBB4594F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>69FA2AED-39BC-420B-AC47-4A59FF007D8F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>632E90B2-F030-4091-8AEC-C428F25D2484</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>6DFB46BC-476D-4B35-B952-C0BD803DDFA5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1819C915-662D-45E8-B6AE-405C1C658E5C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>9CE81F1C-220C-4BC4-8B07-B366975A1262</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D61A6993-6D0E-4785-9B18-DD5F3C82055A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>A4E7AFA9-8F0B-462F-8026-FC0FA5E6252B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AB119662-88A1-479E-846D-81B47BFEF267</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>AB119662-88A1-479E-846D-81B47BFEF267</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E0702E7F-5286-45AE-A174-F467BBB4594F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>D587658B-CBD0-4898-BF64-30D8E822D3E2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D96A9F7F-9132-4346-9509-75BF4B28A534</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>D866DA1D-5E55-49F2-AF16-AB9C87C22355</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9CE81F1C-220C-4BC4-8B07-B366975A1262</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>DCFB4068-058E-4986-9972-D9F23A8C24A0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2FAEECC7-C16C-44CD-9985-5D60BE22CD7B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>FB7210FF-21BB-4090-871D-431FE1493425</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2476F59E-06DB-410A-9C66-6ACA9882F87D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>David Norman</string>
+	<key>description</key>
+	<string>Manipulate DNS and Bonjour from discoveryd using discoveryutil.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>DNS control</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>dns flush</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Flush DNS cache</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D866DA1D-5E55-49F2-AF16-AB9C87C22355</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  set osversion_minor to system attribute "sys2"
+
+  if q is equal to "" then
+    if osversion_minor is less than 10 then
+      set output to (do shell script "killall -HUP mDNSResponder;echo $?" with administrator privileges)
+    else
+      set output to (do shell script "discoveryutil mdnsflushcache;discoveryutil udnsflushcaches;echo $?" with administrator privileges)
+    end if
+  else
+    set pwd to q
+    if osversion_minor is less than 10 then
+      set output to (do shell script "killall -HUP mDNSResponder;echo $?" password pwd with administrator privileges)
+    else
+      set output to (do shell script "discoveryutil mdnsflushcache;discoveryutil udnsflushcaches;echo $?" password pwd with administrator privileges)
+    end if
+  
+  end if
+
+  if output is equal to "0" then
+	return "DNS cache successfully flushed."
+  else
+	return "Error, cache was NOT flushed."
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>9CE81F1C-220C-4BC4-8B07-B366975A1262</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    set output to (do shell script "discoveryutil udnsflushcaches;echo $?" with administrator privileges)
+  else
+    set pwd to q
+    set output to (do shell script "discoveryutil udnsflushcaches;echo $?" password pwd with administrator privileges)
+  end if
+
+  if output is equal to "0" then
+	return "Unicast DNS cache successfully flushed."
+  else
+	return "Error, cache was NOT flushed."
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>2FAEECC7-C16C-44CD-9985-5D60BE22CD7B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>udns flush</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Flush Unicast DNS cache</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>DCFB4068-058E-4986-9972-D9F23A8C24A0</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>DNS control</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>D61A6993-6D0E-4785-9B18-DD5F3C82055A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    set output to (do shell script "discoveryutil mdnsflushcache;echo $?" with administrator privileges)
+  else
+    set pwd to q
+    set output to (do shell script "discoveryutil mdnsflushcache;echo $?" password pwd with administrator privileges)
+  end if
+
+  if output is equal to "0" then
+	return "Multicast DNS cache successfully flushed."
+  else
+	return "Error, cache was NOT flushed."
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>1819C915-662D-45E8-B6AE-405C1C658E5C</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>mdns flush</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Flush Multicast DNS cache</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6DFB46BC-476D-4B35-B952-C0BD803DDFA5</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    set output to (do shell script "discoveryutil mdnsflushcache;discoveryutil udnsflushcaches;echo $?" with administrator privileges)
+  else
+    set pwd to q
+    set output to (do shell script "discoveryutil mdnsrestartquestions;discoveryutil udnsrestartquestions;echo $?" password pwd with administrator privileges)
+  end if
+
+  if output is equal to "0" then
+	return "DNS questions successfully restarted."
+  else
+	return "Error, DNS questions were NOT restarted."
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>2476F59E-06DB-410A-9C66-6ACA9882F87D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>dns restart</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Restart DNS questions</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FB7210FF-21BB-4090-871D-431FE1493425</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>udns stats</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Unicast DNS statistics</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>69FA2AED-39BC-420B-AC47-4A59FF007D8F</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    do shell script "discoveryutil udnscachestats  | grep 'UDNS Cache Stats: Cached' | head -1" with administrator privileges
+  else
+    set pwd to q
+    do shell script "discoveryutil udnscachestats  | grep 'UDNS Cache Stats: Cached' | head -1" password pwd with administrator privileges
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>632E90B2-F030-4091-8AEC-C428F25D2484</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>E0702E7F-5286-45AE-A174-F467BBB4594F</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    do shell script "discoveryutil mdnscachestats" with administrator privileges
+  else
+    set pwd to q
+    do shell script "discoveryutil mdnscachestats" password pwd with administrator privileges
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>AB119662-88A1-479E-846D-81B47BFEF267</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>mdns stats</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Multicast DNS statistics</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A4E7AFA9-8F0B-462F-8026-FC0FA5E6252B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>udns tcp</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Force udns queries to go over TCP instead of UDP</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2E621E31-7AD5-4A6E-A90B-4D16EFB992F0</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    do shell script "discoveryutil udnsforcetcp yes" with administrator privileges
+  else
+    set pwd to q
+    do shell script "discoveryutil udnsforcetcp yes" password pwd with administrator privileges
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>19A280B6-5EEB-4DA3-A3B1-0F9942F0D382</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>udns udp</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Allow udns queries to go over UDP</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D587658B-CBD0-4898-BF64-30D8E822D3E2</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  if q is equal to "" then
+    do shell script "discoveryutil udnsforcetcp no" with administrator privileges
+  else
+    set pwd to q
+    do shell script "discoveryutil udnsforcetcp no" password pwd with administrator privileges
+  end if
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>D96A9F7F-9132-4346-9509-75BF4B28A534</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Manage the DNS (discoveryd) service in Mac OS 10.10+.
+
+No arguments will prompt you for a user and password.
+
+For more convenience, you can also enter your password after the keyword (separated by a space). This is much quicker, and don't worry: this workflow does not store or submit any data. If the password happens to be wrong, you will see the regular prompt by the system.
+
+Success or errors are reported through a notification.
+
+Just in case you didn’t read this, it attempts to support DNS cache flushing for older versions of OS X. Commands used:
+
+&lt;=10.9
+
+sudo killall -HUP mDNSResponder
+
+&gt;=10.10
+
+sudo discoveryutil udnsflushcaches</string>
+	<key>uidata</key>
+	<dict>
+		<key>1819C915-662D-45E8-B6AE-405C1C658E5C</key>
+		<dict>
+			<key>ypos</key>
+			<real>290</real>
+		</dict>
+		<key>19A280B6-5EEB-4DA3-A3B1-0F9942F0D382</key>
+		<dict>
+			<key>ypos</key>
+			<real>770</real>
+		</dict>
+		<key>2476F59E-06DB-410A-9C66-6ACA9882F87D</key>
+		<dict>
+			<key>ypos</key>
+			<real>410</real>
+		</dict>
+		<key>2E621E31-7AD5-4A6E-A90B-4D16EFB992F0</key>
+		<dict>
+			<key>ypos</key>
+			<real>770</real>
+		</dict>
+		<key>2FAEECC7-C16C-44CD-9985-5D60BE22CD7B</key>
+		<dict>
+			<key>ypos</key>
+			<real>170</real>
+		</dict>
+		<key>632E90B2-F030-4091-8AEC-C428F25D2484</key>
+		<dict>
+			<key>ypos</key>
+			<real>530</real>
+		</dict>
+		<key>69FA2AED-39BC-420B-AC47-4A59FF007D8F</key>
+		<dict>
+			<key>ypos</key>
+			<real>530</real>
+		</dict>
+		<key>6DFB46BC-476D-4B35-B952-C0BD803DDFA5</key>
+		<dict>
+			<key>ypos</key>
+			<real>290</real>
+		</dict>
+		<key>9CE81F1C-220C-4BC4-8B07-B366975A1262</key>
+		<dict>
+			<key>ypos</key>
+			<real>60</real>
+		</dict>
+		<key>A4E7AFA9-8F0B-462F-8026-FC0FA5E6252B</key>
+		<dict>
+			<key>ypos</key>
+			<real>650</real>
+		</dict>
+		<key>AB119662-88A1-479E-846D-81B47BFEF267</key>
+		<dict>
+			<key>ypos</key>
+			<real>650</real>
+		</dict>
+		<key>D587658B-CBD0-4898-BF64-30D8E822D3E2</key>
+		<dict>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>D61A6993-6D0E-4785-9B18-DD5F3C82055A</key>
+		<dict>
+			<key>ypos</key>
+			<real>230</real>
+		</dict>
+		<key>D866DA1D-5E55-49F2-AF16-AB9C87C22355</key>
+		<dict>
+			<key>ypos</key>
+			<real>60</real>
+		</dict>
+		<key>D96A9F7F-9132-4346-9509-75BF4B28A534</key>
+		<dict>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>DCFB4068-058E-4986-9972-D9F23A8C24A0</key>
+		<dict>
+			<key>ypos</key>
+			<real>170</real>
+		</dict>
+		<key>E0702E7F-5286-45AE-A174-F467BBB4594F</key>
+		<dict>
+			<key>ypos</key>
+			<real>590</real>
+		</dict>
+		<key>FB7210FF-21BB-4090-871D-431FE1493425</key>
+		<dict>
+			<key>ypos</key>
+			<real>410</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string>https://github.com/deekayen/dnscontrol</string>
+</dict>
+</plist>
