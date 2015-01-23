@@ -10,13 +10,13 @@ For convenience, you can also enter your password after the keyword (separated b
 
 Success or failure is reported through a notification.
 
-![](https://raw.github.com/deekayen/dnscontrol/master/screenshots/workflow.jpg)
+![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/workflow.jpg)
 
 ### Keyword: `dns flush`
 
 Flushing DNS is the only keyword that works for OS X 10.7+. It will flush entries for both multicast and unicast DNS.
 
-![](https://raw.github.com/deekayen/dnscontrol/master/screenshots/dns.jpg)
+![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/dns.jpg)
 
 #### <=10.9
 
@@ -36,7 +36,7 @@ Forces mdns and udns questions and mdns registrations to restart.
 
 ### Unicast DNS
 
-![](https://raw.github.com/deekayen/dnscontrol/master/screenshots/udns.jpg)
+![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/udns.jpg)
 
 #### Keyword: `udns flush`
 
@@ -50,7 +50,7 @@ Displays cache statistics for Unicast DNS.
 
 `discoveryutil udnscachestats  | grep 'UDNS Cache Stats: Cached' | head -1`
 
-![](https://raw.github.com/deekayen/dnscontrol/master/screenshots/udns_stats.jpg)
+![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/udns_stats.jpg)
 
 #### Keyword: `udns tcp`
 
@@ -70,7 +70,7 @@ Allow udns queries to go over UDP (reversing `udns tcp`).
 
 ### Multicast DNS
 
-![](https://raw.github.com/deekayen/dnscontrol/master/screenshots/mdns.jpg)
+![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/mdns.jpg)
 
 #### Keyword: `mdns flush`
 
