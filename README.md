@@ -1,6 +1,6 @@
 # Alfred 2 DNS control workflow
 
-Manage the discoveryd process Mac OS X (10.10+) using [discoveryutil](http://www.manpagez.com/man/8/discoveryutil/).
+Manage the [discoveryd](http://www.manpagez.com/man/8/discoveryd/) process Mac OS X (10.10+) using [discoveryutil](http://www.manpagez.com/man/8/discoveryutil/).
 
 ## Usage
 
