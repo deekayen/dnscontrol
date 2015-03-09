@@ -176,29 +176,9 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>keyword</key>
-				<string>dns flush</string>
-				<key>subtext</key>
-				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
-				<key>text</key>
-				<string>Flush DNS cache</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>D866DA1D-5E55-49F2-AF16-AB9C87C22355</string>
-			<key>version</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   set osversion_minor to system attribute "sys2"
 
   if q is equal to "" then
@@ -236,8 +216,30 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>dns flush</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Flush DNS cache</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D866DA1D-5E55-49F2-AF16-AB9C87C22355</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     set output to (do shell script "discoveryutil udnsflushcaches;echo $?" with administrator privileges)
   else
@@ -312,6 +314,7 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     set output to (do shell script "discoveryutil mdnsflushcache;echo $?" with administrator privileges)
   else
@@ -359,8 +362,30 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>dns restart</string>
+				<key>subtext</key>
+				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<key>text</key>
+				<string>Restart DNS questions</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FB7210FF-21BB-4090-871D-431FE1493425</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     set output to (do shell script "discoveryutil mdnsrestartquestions;discoveryutil udnsrestartquestions;discoveryutil mdnsrestartregistrations;echo $?" with administrator privileges)
   else
@@ -390,27 +415,6 @@ end alfred_script</string>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>keyword</key>
-				<string>dns restart</string>
-				<key>subtext</key>
-				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
-				<key>text</key>
-				<string>Restart DNS questions</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>FB7210FF-21BB-4090-871D-431FE1493425</string>
-			<key>version</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>keyword</key>
 				<string>udns stats</string>
 				<key>subtext</key>
 				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
@@ -431,6 +435,7 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     do shell script "discoveryutil udnscachestats  | grep 'UDNS Cache Stats: Cached' | head -1" with administrator privileges
   else
@@ -461,6 +466,7 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     do shell script "discoveryutil mdnscachestats" with administrator privileges
   else
@@ -525,6 +531,7 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     do shell script "discoveryutil udnsforcetcp yes" with administrator privileges
   else
@@ -568,6 +575,7 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
+  tell me to activate
   if q is equal to "" then
     do shell script "discoveryutil udnsforcetcp no" with administrator privileges
   else
