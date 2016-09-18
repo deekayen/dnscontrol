@@ -14,13 +14,13 @@ For convenience, you can also enter your password after the keyword (separated b
 
 Success or failure is reported through a notification.
 
-![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/workflow.png)
+![](https://raw.github.com/deekayen/dnscontrol/alfred3/screenshots/workflow.png)
 
 ### Keyword: `dns flush`
 
 Flushing DNS is the only keyword that works for OS X 10.7+. It will flush entries for both multicast and unicast DNS.
 
-![](https://raw.github.com/deekayen/dnscontrol/alfred2/screenshots/dns.png)
+![](https://raw.github.com/deekayen/dnscontrol/alfred3/screenshots/dns.png)
 
 #### <=10.9
 
