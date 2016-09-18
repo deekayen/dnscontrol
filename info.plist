@@ -143,7 +143,7 @@ end alfred_script</string>
 				<key>keyword</key>
 				<string>dns flush</string>
 				<key>subtext</key>
-				<string>Skip password prompt by adding your admin password after the keyword and a space.</string>
+				<string>Optionally append your admin password after the keyword and a space.</string>
 				<key>text</key>
 				<string>Flush DNS cache</string>
 				<key>withspace</key>
