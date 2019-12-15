@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)]()
-
 # Alfred 3 DNS control workflow
+
+[![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)]() [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 Manage the [discoveryd](http://www.manpagez.com/man/8/discoveryd/) process Mac OS X 10.10 using [discoveryutil](http://www.manpagez.com/man/8/discoveryutil/).
 
